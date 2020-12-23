@@ -4,6 +4,16 @@
     .container {
         width: 95%;
     }
+    header .brand-logo .logo-span {
+        font-size: 1rem;
+    }
+    .bg-cover .title {
+        font-size: 3rem;
+        font-weight: 700;
+        line-height: 1.85em;
+        margin-bottom: 20px;
+        position: relative;
+    }
 }
 
 /*中等屏幕下(平板类)的样式*/
@@ -241,7 +251,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #9e3e07 0%, #e62517 100%);
 }
 
 .text-color {
